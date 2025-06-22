@@ -1,5 +1,3 @@
-import "fmt"
-
 type Pair struct {
     X, Y int
 }
