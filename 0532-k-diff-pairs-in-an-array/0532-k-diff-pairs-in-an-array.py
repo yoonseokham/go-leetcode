@@ -9,7 +9,6 @@ class Solution(object):
             if kv_dict[num+k]:
                 answer.append((num,num+k))
             kv_dict[num] = kv_dict[num] + 1
-        print(answer)
         return len(set(answer))
 
         
