@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yoonseokham/go-leetcode/tree/master/0001-two-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yoonseokham/go-leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yoonseokham/go-leetcode/tree/master/0001-two-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yoonseokham/go-leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Two Pointers
 |  |
