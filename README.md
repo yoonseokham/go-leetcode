@@ -16,9 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/yoonseokham/go-leetcode/tree/master/0278-first-bad-version) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yoonseokham/go-leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yoonseokham/go-leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/yoonseokham/go-leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
