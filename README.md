@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/yoonseokham/go-leetcode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+## String
+|  |
+| ------- |
+| [3312-number-of-changing-keys](https://github.com/yoonseokham/go-leetcode/tree/master/3312-number-of-changing-keys) |
 <!---LeetCode Topics End-->
