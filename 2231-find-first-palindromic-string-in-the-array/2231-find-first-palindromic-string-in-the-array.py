@@ -4,6 +4,7 @@ class Solution:
             if self.isPalindrome(word):
                 return word
         return ""
+
     def isPalindrome(self, word: str) -> bool:
         i = 0
         j = len(word) - 1
