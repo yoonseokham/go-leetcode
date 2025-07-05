@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yoonseokham/go-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3312-number-of-changing-keys](https://github.com/yoonseokham/go-leetcode/tree/master/3312-number-of-changing-keys) |
+## Math
+|  |
+| ------- |
+| [2812-find-the-maximum-achievable-number](https://github.com/yoonseokham/go-leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
