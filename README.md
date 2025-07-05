@@ -34,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/yoonseokham/go-leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/yoonseokham/go-leetcode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 ## String
 |  |
 | ------- |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yoonseokham/go-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/yoonseokham/go-leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [3312-number-of-changing-keys](https://github.com/yoonseokham/go-leetcode/tree/master/3312-number-of-changing-keys) |
 ## Math
 |  |
