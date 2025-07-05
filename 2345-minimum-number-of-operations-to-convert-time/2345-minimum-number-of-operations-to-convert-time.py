@@ -2,7 +2,7 @@ class Solution:
     def convertTime(self, current: str, correct: str) -> int:
         answer = 0
         diff_min = Solution.getDiffMin(current, correct)
-        for i in [60,15,5,1]:
+        for i in [60, 15, 5, 1]:
             operation = diff_min//i
             answer += operation
             diff_min -= i*operation
