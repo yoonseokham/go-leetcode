@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/yoonseokham/go-leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yoonseokham/go-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/yoonseokham/go-leetcode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/yoonseokham/go-leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/yoonseokham/go-leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/yoonseokham/go-leetcode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/yoonseokham/go-leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## String
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-maximum-achievable-number](https://github.com/yoonseokham/go-leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+## Matrix
+|  |
+| ------- |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/yoonseokham/go-leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 <!---LeetCode Topics End-->
