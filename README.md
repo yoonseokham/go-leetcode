@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yoonseokham/go-leetcode/tree/master/0001-two-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yoonseokham/go-leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0889-buddy-strings](https://github.com/yoonseokham/go-leetcode/tree/master/0889-buddy-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/yoonseokham/go-leetcode/tree/master/0657-robot-return-to-origin) |
+| [0889-buddy-strings](https://github.com/yoonseokham/go-leetcode/tree/master/0889-buddy-strings) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yoonseokham/go-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/yoonseokham/go-leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [3312-number-of-changing-keys](https://github.com/yoonseokham/go-leetcode/tree/master/3312-number-of-changing-keys) |
