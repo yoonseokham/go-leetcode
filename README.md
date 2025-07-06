@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/yoonseokham/go-leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/yoonseokham/go-leetcode/tree/master/0278-first-bad-version) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yoonseokham/go-leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sorting
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/yoonseokham/go-leetcode/tree/master/0069-sqrtx) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/yoonseokham/go-leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2812-find-the-maximum-achievable-number](https://github.com/yoonseokham/go-leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Matrix
