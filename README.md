@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yoonseokham/go-leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yoonseokham/go-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yoonseokham/go-leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/yoonseokham/go-leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yoonseokham/go-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yoonseokham/go-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yoonseokham/go-leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yoonseokham/go-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
