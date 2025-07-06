@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/yoonseokham/go-leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yoonseokham/go-leetcode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/yoonseokham/go-leetcode/tree/master/0258-add-digits) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/yoonseokham/go-leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2812-find-the-maximum-achievable-number](https://github.com/yoonseokham/go-leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Matrix
@@ -75,5 +76,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/yoonseokham/go-leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/yoonseokham/go-leetcode/tree/master/0657-robot-return-to-origin) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yoonseokham/go-leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
