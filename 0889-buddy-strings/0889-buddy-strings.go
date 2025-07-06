@@ -1,7 +1,5 @@
 func buddyStrings(s string, goal string) bool {
-    if len(s) != len(goal) {
-        return false
-    }
+    if len(s) != len(goal) {return false}
     if s == goal {
         s_dict := make(map[byte]bool)
         for i:=0;i<len(s);i++{
