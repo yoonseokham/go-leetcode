@@ -1,4 +1,3 @@
-import "fmt"
 func hammingDistance(x int, y int) int {
     answer := 0
     x_b := getBinary(x)
