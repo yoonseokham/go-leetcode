@@ -1,6 +1,6 @@
 class Solution:
     def getBinary(self, n :int) -> list[int]:
-        binary = [0 for i in range(33)]
+        binary = [0 for i in range(32)]
         i = 0
         while n > 0:
             binary[i] = n%2
