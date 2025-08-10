@@ -11,8 +11,8 @@ func hammingDistance(x int, y int) int {
     return answer
 }
 
-func getBinary(n int) []int {
-    binary := make([]int, 32, 32)
+func getBinary(n int) [32]int {
+    var binary [32]int
     i := 0
     for {
         binary[i] = n%2
