@@ -1,5 +1,3 @@
-import collections
-
 class Solution:
     def getBinary(self, n :int) -> list[int]:
         binary = [0 for i in range(33)]
