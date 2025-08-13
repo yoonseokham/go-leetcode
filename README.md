@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/yoonseokham/go-leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yoonseokham/go-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/yoonseokham/go-leetcode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/yoonseokham/go-leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/yoonseokham/go-leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Hash Table
 |  |
@@ -23,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yoonseokham/go-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yoonseokham/go-leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yoonseokham/go-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/yoonseokham/go-leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/yoonseokham/go-leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/yoonseokham/go-leetcode/tree/master/0278-first-bad-version) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yoonseokham/go-leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/yoonseokham/go-leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/yoonseokham/go-leetcode/tree/master/0461-hamming-distance) |
+## Enumeration
+|  |
+| ------- |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/yoonseokham/go-leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 <!---LeetCode Topics End-->
