@@ -8,7 +8,6 @@ class Solution:
         for num in new_nums:
             if num <= temp: return False
             temp = num
-        print(new_nums)
         return True
 
     def incremovableSubarrayCount(self, nums: List[int]) -> int:
