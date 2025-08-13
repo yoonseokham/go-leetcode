@@ -1,5 +1,3 @@
-import "fmt"
-
 func getRemovedNums(nums []int, start int, end int) []int {
     copied := make([]int, len(nums))
     copy(copied, nums)
