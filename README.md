@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yoonseokham/go-leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yoonseokham/go-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yoonseokham/go-leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0822-unique-morse-code-words](https://github.com/yoonseokham/go-leetcode/tree/master/0822-unique-morse-code-words) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/yoonseokham/go-leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yoonseokham/go-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/yoonseokham/go-leetcode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yoonseokham/go-leetcode/tree/master/0001-two-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yoonseokham/go-leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0822-unique-morse-code-words](https://github.com/yoonseokham/go-leetcode/tree/master/0822-unique-morse-code-words) |
 | [0889-buddy-strings](https://github.com/yoonseokham/go-leetcode/tree/master/0889-buddy-strings) |
 ## Two Pointers
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/yoonseokham/go-leetcode/tree/master/0657-robot-return-to-origin) |
+| [0822-unique-morse-code-words](https://github.com/yoonseokham/go-leetcode/tree/master/0822-unique-morse-code-words) |
 | [0889-buddy-strings](https://github.com/yoonseokham/go-leetcode/tree/master/0889-buddy-strings) |
 | [1283-reformat-date](https://github.com/yoonseokham/go-leetcode/tree/master/1283-reformat-date) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yoonseokham/go-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
