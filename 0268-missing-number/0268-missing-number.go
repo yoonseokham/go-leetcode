@@ -3,10 +3,10 @@ func missingNumber(nums []int) int {
     for _, num := range nums {
         showed[num] = true
     }
-    for i:=0; i<len(nums);i++{
+    for i:=0; i<=len(nums);i++{
         if !showed[i] {
             return i
         }
     }
-    return len(nums)
+    panic("unreachable")
 }
