@@ -1,5 +1,3 @@
-import "fmt"
-
 func maxFreqSum(s string) int {
     v_max := 0
     c_max := 0
