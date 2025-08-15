@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/yoonseokham/go-leetcode/tree/master/0822-unique-morse-code-words) |
 | [0889-buddy-strings](https://github.com/yoonseokham/go-leetcode/tree/master/0889-buddy-strings) |
 | [1283-reformat-date](https://github.com/yoonseokham/go-leetcode/tree/master/1283-reformat-date) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/yoonseokham/go-leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yoonseokham/go-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/yoonseokham/go-leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [3312-number-of-changing-keys](https://github.com/yoonseokham/go-leetcode/tree/master/3312-number-of-changing-keys) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/yoonseokham/go-leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/yoonseokham/go-leetcode/tree/master/0258-add-digits) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/yoonseokham/go-leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/yoonseokham/go-leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2812-find-the-maximum-achievable-number](https://github.com/yoonseokham/go-leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Matrix
 |  |
