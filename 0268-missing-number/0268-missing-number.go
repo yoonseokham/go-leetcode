@@ -1,10 +1,10 @@
 func missingNumber(nums []int) int {
-    showed := make(map[int]bool)
+    showed := make(map[int]struct{})
     for _, num := range nums {
-        showed[num] = true
+        showed[num] = struct{}{}
     }
     for i:=0; i<=len(nums);i++{
-        if !showed[i] {
+        if _, ok := showed[i]; !ok {
             return i
         }
     }
