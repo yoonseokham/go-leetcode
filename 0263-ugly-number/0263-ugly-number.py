@@ -8,5 +8,4 @@ class Solution:
                     n = n//num
                     divided = True
         return n == 1
-
-        
+  
