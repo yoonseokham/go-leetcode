@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/yoonseokham/go-leetcode/tree/master/0822-unique-morse-code-words) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/yoonseokham/go-leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/yoonseokham/go-leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/yoonseokham/go-leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yoonseokham/go-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/yoonseokham/go-leetcode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/yoonseokham/go-leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/yoonseokham/go-leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0822-unique-morse-code-words](https://github.com/yoonseokham/go-leetcode/tree/master/0822-unique-morse-code-words) |
 | [0889-buddy-strings](https://github.com/yoonseokham/go-leetcode/tree/master/0889-buddy-strings) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/yoonseokham/go-leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yoonseokham/go-leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/yoonseokham/go-leetcode/tree/master/0889-buddy-strings) |
 | [1283-reformat-date](https://github.com/yoonseokham/go-leetcode/tree/master/1283-reformat-date) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/yoonseokham/go-leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/yoonseokham/go-leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yoonseokham/go-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/yoonseokham/go-leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [3312-number-of-changing-keys](https://github.com/yoonseokham/go-leetcode/tree/master/3312-number-of-changing-keys) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2190-count-common-words-with-one-occurrence](https://github.com/yoonseokham/go-leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yoonseokham/go-leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
