@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/yoonseokham/go-leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0822-unique-morse-code-words](https://github.com/yoonseokham/go-leetcode/tree/master/0822-unique-morse-code-words) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/yoonseokham/go-leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/yoonseokham/go-leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yoonseokham/go-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/yoonseokham/go-leetcode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/yoonseokham/go-leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/yoonseokham/go-leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/yoonseokham/go-leetcode/tree/master/0657-robot-return-to-origin) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/yoonseokham/go-leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Number Theory
 |  |
 | ------- |
@@ -114,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yoonseokham/go-leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Stack
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/yoonseokham/go-leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/yoonseokham/go-leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
