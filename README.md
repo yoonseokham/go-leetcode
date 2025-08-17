@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0521-longest-uncommon-subsequence-i](https://github.com/yoonseokham/go-leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0657-robot-return-to-origin](https://github.com/yoonseokham/go-leetcode/tree/master/0657-robot-return-to-origin) |
 | [0822-unique-morse-code-words](https://github.com/yoonseokham/go-leetcode/tree/master/0822-unique-morse-code-words) |
 | [0889-buddy-strings](https://github.com/yoonseokham/go-leetcode/tree/master/0889-buddy-strings) |
